@@ -15,3 +15,4 @@ Then I have plotted a bar graph to visualise data for conclusion.
 6. Large states have the most number of active cases and small states have the least number of active cases. There are some exceptions.
 7. The states Gujarat, Delhi, Maharashtra have to be more careful.
 8. The states Mizoram and Sikkim have to focus on its cure rate.
+From the conclusions covid19 cases have many variations in India.
