@@ -7,10 +7,10 @@ Then I have plotted a bar graph to visualise data for conclusion.
 2. Making dataframe, calculations on columns, addinng columns, changing data type of columns using pandas
 3. Plotting bar graphs and pie chart using matplotlib
 # Conclusion :
-1. Inspite of Maharashtra having most number of confirmed cases, it have comparatively less death rate and high cure rate.
-2. Inspite of Gujarat having comparatively less number of confirmed cases, it have highest infection fatality rate.
-3. Inspite of Delhi having comparatively less number of confirmed cases, it have highest death rate due to covid19 and highest active cases per lakh population.
-4. Inspite of Mizoram and Sikkim having comparatively less number of confirmed cases, it have least cure rate.
+1. In spite of Maharashtra having most number of confirmed cases, it have comparatively less death rate and high cure rate.
+2. In spite of Gujarat having comparatively less number of confirmed cases, it have highest infection fatality rate.
+3. In spite of Delhi having comparatively less number of confirmed cases, it have highest death rate due to covid19 and highest active cases per lakh population.
+4. In spite of Mizoram and Sikkim having comparatively less number of confirmed cases, it have least cure rate.
 5. North-east states of India have comparatively less active cases.
 6. Large states have the most number of active cases and small states have the least number of active cases. There are some exceptions.
 7. The states Gujarat, Delhi, Maharashtra needs to be more careful.
